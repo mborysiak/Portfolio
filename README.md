@@ -4,7 +4,7 @@ Below are brief descriptions and links to various portfolio projects I have comp
 
 <b>1. Analysis of Teen Birth Rates:</b> https://github.com/mborysiak/Factors-Affecting-Teen-Pregnancy-Rate
 
-This project looked at over 50 factors that could potentially contribute to teen birth rates in various states. The most important factors for predicting teen birth rate on a state-level were determined using a linear regression model. I gathered and cleaned the data independently. 
+This project looked at over 50 factors that could potentially contribute to teen birth rates in various states. The most important factors for predicting teen birth rate on a state-level were determined using a linear regression model. I gathered, cleaned, and analyzed the data independently. 
 
 <b>2. Analysis of SAT scores in New York City:</b> https://github.com/mborysiak/Analysis-of-SAT-Scores-in-New-York-City
 
