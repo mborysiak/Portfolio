@@ -16,4 +16,4 @@ This project takes an existing dataset from 538 and performs various cleanings t
 
 <b>4. Exploring Gun Deaths in the US:</b> https://github.com/mborysiak/Analysis-of-Gun-Deaths-in-America
 
-This was my first project in the DataQuest program. It uses lower level programming without pandas to combine and explore the dataset. Interesting statistics and correlations are found.
+This was my first project in the DataQuest program. It uses lower level programming without pandas to combine and explore the dataset. Various stastical metrics related to gun deaths (homicide vs. suicide; race; and time of year) are analyzed.
