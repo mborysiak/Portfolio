@@ -1,5 +1,5 @@
 # Summary of my projects
-Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, andunderstand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions from the dataset. Please contact me if you have any questions or would like to speak further.
+Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions from the dataset. Please contact me if you have any questions or would like to speak further.
 
 
 <b>1. Analysis of Teen Birth Rates:</b> https://github.com/mborysiak/Factors-Affecting-Teen-Pregnancy-Rate
