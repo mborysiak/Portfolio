@@ -1,5 +1,5 @@
 # Summary of my projects
-Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions from the dataset. Please contact me if you have any questions or would like to speak further.
+Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions and make predictions from the dataset. Please contact me if you have any questions or would like to speak further.
 
 <b>1. Predicting Wide Receiver Fantasy Football Scores:</b> https://github.com/mborysiak/Predicting-Wide-Receiver-Fantasy-Points
 
@@ -10,6 +10,7 @@ This project aims to predict the fantasy football scores of NFL wide receivers. 
 This project looked at over 50 factors that could potentially contribute to teen birth rates in various states. The most important factors for predicting teen birth rate on a state-level were determined using a linear regression model. I gathered, cleaned, and analyzed the data independently. 
 
 <b>3. Predicting Home Prices in Aimes, IA (Kaggle Competition):</b>
+I completed this project as part of a Kaggle competition (see here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I visualized the various aspects of the dataset prior to cleaning null values and performing feature engineering such as transforming nominal variables and addressing null values. The Extreme Gradient Boosting (XGBoost) decision-tree algorithm was used for modeling and prediction, with my results ranking in the top 30% with relatively minimal coding.
 
 <b>4. Analysis of SAT scores in New York City:</b> https://github.com/mborysiak/Analysis-of-SAT-Scores-in-New-York-City
 
