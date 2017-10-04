@@ -3,6 +3,7 @@ Below are brief descriptions and links to various portfolio projects I have comp
 
 <b>1. Predicting Wide Receiver Fantasy Football Scores:</b> https://github.com/mborysiak/Predicting-Wide-Receiver-Fantasy-Points
 
+This project aims to predict the fantasy football scores of NFL wide receivers. It scrapes individual player receiving and team passing data from pro-football-reference.com for the 2000–2016 seasons (n=~2200). The data is cleaned and merged prior to feature engineering. The final dataset is transformed using principal component analysis (PCA) and then modeled using linear regression. All work was performed independently.
 
 <b>2. Analysis of Teen Birth Rates:</b> https://github.com/mborysiak/Factors-Affecting-Teen-Pregnancy-Rate
 
