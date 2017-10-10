@@ -7,7 +7,7 @@ This project aims to predict the fantasy football scores of NFL wide receivers. 
 
 <b>2. Analysis of Teen Birth Rates:</b> https://github.com/mborysiak/Factors-Affecting-Teen-Pregnancy-Rate
 
-This project looked at over 50 factors that could potentially contribute to teen birth rates in various states. The most important factors for predicting teen birth rate on a state-level were determined using a linear regression model. I gathered, cleaned, and analyzed the data independently. 
+This project looked at over 50 factors that could potentially contribute to teen birth rates in various states. The most important factors for predicting teen birth rate on a state-level were determined using a (regularized) linear regression model. I gathered, cleaned, and analyzed the data independently. 
 
 <b>3. Predicting Home Prices in Aimes, IA (Kaggle Competition):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
 
