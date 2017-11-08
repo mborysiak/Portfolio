@@ -13,17 +13,13 @@ This project looked at over 50 factors that could potentially contribute to teen
 
 Using various Google Trends and S&P 500 historical data, I compared the performance of AutoRegressive Integrated Moving Average (ARIMA) and Long Short-Term Memory (LSTM) models for forecasting time series data. I also examined how using Gaussian filtering could help improve the predictions on out-of-sample data. Search trends explored include LeBron James, Olympics, Kentucky Derby, colbrew, Zika virus, and Gilmore Girls.
 
-<b>3. Predicting Home Prices in Aimes, IA (Kaggle Competition):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
+<b>4. Predicting Home Prices in Aimes, IA (Kaggle Competition):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
 
 I completed this project as part of a Kaggle competition (see here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I visualized the various aspects of the dataset prior to cleaning null values and performing feature engineering such as transforming nominal variables and addressing null values. The Extreme Gradient Boosting (XGBoost) decision-tree algorithm was used for modeling and prediction, with my results ranking in the top 30% of Kaggle with relatively minimal coding.
 
-<b>4. Analysis of SAT scores in New York City:</b> https://github.com/mborysiak/Analysis-of-SAT-Scores-in-New-York-City
+<b>5. Analysis of SAT scores in New York City:</b> https://github.com/mborysiak/Analysis-of-SAT-Scores-in-New-York-City
 
 This project gathers, cleans, and combines data from various sources into a coherent database for exploring predictors of SAT scores for students in New York City. I began this project as part of the DataQuest (dataquest.io) Data Science program, before extending the analysis to include linear regression modeling with regularization.
-
-<b>5. Cleaning a Star Wars dataset:</b> https://github.com/mborysiak/Star-Wars-Data-Cleaning-and-Analysis
-
-This project takes an existing dataset from 538 and performs various cleanings to improve usability. Basic statistical metrics are explored to find out the movies with highest rankings, viewership, etc. This project also began as part of the DataQuest program.
 
 <b>6. Exploring Gun Deaths in the US:</b> https://github.com/mborysiak/Analysis-of-Gun-Deaths-in-America
 
