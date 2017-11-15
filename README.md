@@ -15,7 +15,7 @@ Using various Google Trends and S&P 500 historical data, I compared the performa
 
 <b>4. Predicting Home Prices in Aimes, IA (Kaggle Competition):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
 
-I completed this project as part of a Kaggle competition (see here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I visualized the various aspects of the dataset prior to cleaning null values and performing feature engineering such as transforming nominal variables and addressing null values. The Extreme Gradient Boosting (XGBoost) decision-tree algorithm was used for modeling and prediction, with my results ranking in the top 30% of Kaggle with relatively minimal coding.
+I completed this project as part of a Kaggle competition (see here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). I visualized the various aspects of the dataset, removed outliers, cleaned null values, performed feature engineering, and optimized model parameters through a grid search. I created an ensemble model consisting of the Extreme Gradient Boosting (XGBoost) decision tree algorithm and Ridge Regression. The ensemble predictions placed in the ~15% of Kaggle entries at the time of submission (out of 2400 entries).
 
 <b>5. Analysis of SAT scores in New York City:</b> https://github.com/mborysiak/Analysis-of-SAT-Scores-in-New-York-City
 
