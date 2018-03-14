@@ -1,5 +1,5 @@
 # Summary of my projects
-Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions and make predictions from the dataset. Please contact me if you have any questions or would like to speak further.
+Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions and make predictions from the dataset. Please contact me if you have any questions or would like to speak further. Other than the two Kaggle competitions, all projects were conceived of and completed independently.
 
 <b>1. Analytics: Analyzing Factors Associated with Teen Birth Rates:</b> https://github.com/mborysiak/Factors-Affecting-Teen-Pregnancy-Rate
 
@@ -13,7 +13,7 @@ This project aims to predict the fantasy football scores of NFL wide receivers. 
 
 This project classifies the distance a user will ride a bike when using the Chicago-based Divvy Bike share program. Divvy makes trip datasets publicly available on their website: https://www.divvybikes.com/system-data. Using this data, I analyzed various feature transformations and machine learning algorithms in order to predict whether or not a user will ride less than or greater than 2 km for each trip, using only information that would be known at the beginning of the ride. The data was supplemented using external API's including GoogleMaps bike-ride distance and Underground Weather information. The best model (Light GBM) provided 66% accuracy score on unseen data with minimal computation compared to non-engineered approaches.
 
-<b>4. Natural Language Processing: Toxic Comment Classification (Kaggle):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
+<b>4. Natural Language Processing: Toxic Comment Classification (Kaggle Competition):</b> https://github.com/mborysiak/Predicting-Ames-Housing-Prices
 
 I completed this project as part of a Kaggle competition (see here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). The goal of the competition was to accurately classify whether a written text statement from the internet contained one of six toxic categories, such as toxic, identity hate, obscence, etc. I utilized two Natural Language Processing (NLP) approaches in order to create an ensemble model with optimal accuracy for text classification. The first utilized various word embedding datasets that were further trained using a Gated Recurrent Unit (GRU) neural network. The second transformed the sentences with term frequency-inverse document frequency (TF-IDF) followed by linear Naive Bayes-Logistic Regression models. The best ensemble placed in the top 25% out of >4000 applicants as of the time of writing.
 
