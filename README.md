@@ -9,7 +9,7 @@ This project looked at over 50 factors that could potentially contribute to teen
 
 This project aims to predict the fantasy football scores of NFL wide receivers. It scrapes individual player receiving and team passing data from pro-football-reference.com and average draft position data from myfantasyleague.com for the 1998–2016 seasons. The data is cleaned and merged prior to feature engineering. The final dataset is used for training and cross-validating 5 machine learning models (Ridge, Lasso, KNN, RandomForest, and XGBoost). The ensemble predictions on holdout data are compared to actual performance, as well as conventional rankings.
 
-<b>3. Classification: Classifying Trip Distance for Bike Ride Share:</b> 
+<b>3. Classification: Classifying Trip Distance for Bike Ride Share:</b> https://github.com/mborysiak/Divvy-Project 
 
 This project classifies the distance a user will ride a bike when using the Chicago-based Divvy Bike share program. Divvy makes trip datasets publicly available on their website: https://www.divvybikes.com/system-data. Using this data, I analyzed various feature transformations and machine learning algorithms in order to predict whether or not a user will ride less than or greater than 2 km for each trip, using only information that would be known at the beginning of the ride. The data was supplemented using external API's including GoogleMaps bike-ride distance and Underground Weather information. The best model (Light GBM) provided 66% accuracy score on unseen data with minimal computation compared to non-engineered approaches.
 
