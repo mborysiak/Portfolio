@@ -1,6 +1,6 @@
 # Summary of my projects
 
-Note: These projects were last updated May 2018 because my work at Starbucks is proprietary.
+Note: These projects were last updated May 2018 because my recent work at Starbucks is proprietary.
 
 Below are brief descriptions and links to various portfolio projects I have completed. These projects show my ability to gather, clean, explore, and understand data, as well as use statistics and machine learning models with visualizations to draw interesting conclusions and make predictions from the dataset. Please contact me if you have any questions or would like to speak further. Other than the two Kaggle competitions, all projects were conceived of and completed independently.
 
